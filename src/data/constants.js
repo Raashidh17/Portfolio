@@ -162,7 +162,7 @@ export const projects = [
   {
     id: 1,
     title: "Hotel Management System",
-    date: "OCT 2024 - Present",
+    date: "OCT 2024 - DEC 2024",
     description:
       "Designed and developed a responsive, user-friendly hotel management website, resulting in a 30% increase in user satisfaction and improved conversion rates. Integrated a MySQL database to manage bookings, payments, and customer data efficiently. Conducted unit tests and debugging to ensure optimal performance. Collaborated with a team to integrate secure user authentication and optimize data handling processes, resulting in a 30% increase in user satisfaction. Created a dynamic room booking system with real-time availability updates for an enhanced user experience.",
     image:
