@@ -221,4 +221,23 @@ export const projects = [
     github: "https://github.com/Raashidh17/Secure-Data-Hiding-in-Images-using-Steganography.git",
     webapp: "https://github.com/Raashidh17/Secure-Data-Hiding-in-Images-using-Steganography.git",
   },
+
+  {
+    id: 3,
+    title: "Next - Gen IoT Using LiFi Technology",
+    date: "MAY 2025 - JUNE 2025",
+    description:
+      "Li-Fi (Light Fidelity) is an emerging wireless communication technology that utilizes visible light instead of traditional radio frequencies to transmit data. This project demonstrates a Li-Fi-based short-range data transmission system that enables secure, efficient, and interference-free communication. The system employs a smartphone flashlight to encode and transmit text messages in the form of light pulses. These signals are detected by a Light Dependent Resistor (LDR) module, processed using an Arduino Uno, and displayed on a 16x2 LCD screen.",
+      image:
+      "https://i.ibb.co/F403V6bW/Li-Fi.jpg",
+    tags: [
+      "LDR",
+      "Arduino", "LCD Display",
+      "Jumper wires",
+      "USB cable",
+    ],
+    category: "Hardware Project",
+    github: "https://github.com/Raashidh17/NextGen-IoT-using-Li-Fi.git",
+    webapp: "https://github.com/Raashidh17/NextGen-IoT-using-Li-Fi.git",
+  },
 ];
